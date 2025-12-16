@@ -1,6 +1,6 @@
 # 👋 Hey, my name is **Younes** !
 I'm a **second year** bachelor's student in **Computer Science** at UCLouvain 🎓 <br>
-I mainly code in **Python 🐍** but I'm currently learning **JavaScript 📜** and **SQL 🗄️** !
+I mainly code in **Python 🐍** but I'm currently learning **Jave ☕️**  !
 
 # ❔ Why Computer Science :
 
