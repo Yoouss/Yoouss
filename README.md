@@ -1,16 +1,16 @@
 # 👋 Hey, my name is **Younes** !
 I'm a **second year** bachelor's student in **Computer Science** at UCLouvain 🎓 <br>
-I mainly code in **Python 🐍** but I'm currently learning **Java ☕️**  !
+I mainly code in **Python 🐍** but I'm currently learning **Java ☕️**
 
-# ❔ Why Computer Science :
+# ❔ Why Computer Science ?
 
-I really like **problem solving 💡**! <br>
+I really like **problem solving 💡** <br>
 What fascinates me the most is all the possible **ways to solve one single problem**... <br>
-...and how that makes **each of us unique ✨** !
+...and how that makes **each of our solution unique**
 
-# 🎯 My Goal :
+# 🎯 My Goal
 
-I'd love to contribute to **real-world problem solving** as a **Software Developer 👨‍💻** !
+Aspiring to contribute to **society** through my work as a **Software Developer 👨‍💻**
 
 # 📂 My projects :
 
@@ -19,10 +19,10 @@ I'd love to contribute to **real-world problem solving** as a **Software Develop
 - 📌 **Visible on** : The **"🧩 My LeetCode profile"** section below
 - 📂 **Repository** : [Yoouss/leetcode-badge](https://github.com/Yoouss/leetcode-badge)
 
-# 🧩 My LeetCode profile :
-###### 🔗 Click on my badge to view my LeetCode profile
+# 🧩 My LeetCode profile
+###### 🔗 Click on my badge to see my LeetCode profile
 [![My LeetCode badge](https://raw.githubusercontent.com/Yoouss/leetcode-badge/main/app/static/badge.png)](https://leetcode.com/Yoouss)
 
 
-# 📫  My contacts :
+# 📫  My contacts
 Feel free to **contact me** via my [LinkedIn profile](http://linkedin.com/in/younes-b-) ✉️ !
