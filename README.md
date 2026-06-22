@@ -16,7 +16,7 @@ Aspiring to contribute to **society** through my work as a **backend Java Softwa
 
 ## 1 : **My own customized LeetCode badge**
 - **Overview** : A dynamic clickable image made with **HTML**, **CSS** and **Flask** (a Python web framework), displayable on my README
-- **Repository** : [Yoouss/leetcode-badge](https://github.com/Yoouss/leetcode_badge) <br> <br>
+- **Repository** : [Yoouss/leetcode_badge](https://github.com/Yoouss/leetcode_badge) <br> <br>
 [![My LeetCode badge](https://raw.githubusercontent.com/Yoouss/leetcode_badge/main/app/static/badge.png)](https://leetcode.com/Yoouss)
 
 
