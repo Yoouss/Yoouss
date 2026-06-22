@@ -1,5 +1,3 @@
-[🇫🇷 Version française](README.fr.md)
-
 # Hey, my name is **Younes** : )
 I'm a **second year** bachelor's student in **Computer Science** at UCLouvain (Belgium) <br>
 I focus mainly on **Java development**, with additional experience in **C**, **Python**, **HTML/CSS** <br>
