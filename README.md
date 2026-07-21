@@ -1,6 +1,6 @@
 # Hey, my name is **Younes** : )
 I'm a **second year** bachelor's student in **Computer Science** at UCLouvain (Belgium) <br>
-I focus mainly on **Java development**, with additional experience in **C**, **Python**, **JavaScript (NodeJS)**, **HTML/CSS** <br>
+I mainly focus on **Java development**, with additional experience in **C**, **Python**, **JavaScript (NodeJS)**, **HTML/CSS** <br>
 I'm on **Linux (Kubuntu)** and use **IntelliJ IDEA** and **VSCodium** as my main development environments
 
 ## ❔ Why Computer Science
@@ -10,7 +10,7 @@ I also like to make projects alone or with other **passionate people** and notic
 
 ## 🎯 My Goal
 
-Aspiring to contribute to **society** through my work as a **backend Java Software Developer/Engineer**
+I'm aspiring to contribute to **society** through my work as a **backend Java Software Developer/Engineer**
 
 ## 📂 My projects :
 
